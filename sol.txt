@@ -1,2 +1,5 @@
-The Sun is a star not a planet
-This is a plain text file not script
+#!/usr bin python
+
+print("The Sun is a star not a planet")
+print("The Sun is a star not a planet")
+print("This is a plain text file not script")
