@@ -1,1 +1,2 @@
 The Sun is a star not a planet
+This is a plain text file not script
